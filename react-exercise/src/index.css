@@ -1,0 +1,11 @@
+h2.heading{
+    color: rgb(122, 122, 244);
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.list-header-info{
+    color:rgb(122, 122, 244);
+    padding-left: 10px;
+    cursor: pointer;
+}
